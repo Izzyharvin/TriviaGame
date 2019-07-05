@@ -1,0 +1,20 @@
+body{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/99/Taylor_Gang_Logo.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+head {
+font-family: 'Press Start 2P', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Orbitron', sans-serif;
+}
