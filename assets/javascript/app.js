@@ -17,30 +17,30 @@ $(document).ready(function(){
     // questions options and answers data
     questions: {
       q1: 'What song did Wiz Khalifia made that the Steelers celebrate too?',
-      q2: '',
-      q3: '',
-      q4: '',
-      q5: "",
-      q6: '',
-      q7: ""
+      q2: 'What movie Wiz Khalifa was in that presented him in High School?',
+      q3: 'What is Wiz Khalifa group is called?',
+      q4: 'Who did Wiz Khalifa have a son by?',
+      q5: 'What city was Wiz Khalifa born?',
+      q6: 'What album did Wiz Khalifa make in 2019?',
+      q7: 'Which one of these people is in his group?'
     },
     options: {
       q1: ['Never Been', 'Taylor Gang', 'Black and Yellow', 'Wassup'],
-      q2: ['', '', '', ''],
-      q3: ['', '', '', ''],
-      q4: ['', '', '', ''],
-      q5: ['','','',''],
-      q6: ['','','',''],
-      q7: ['', '', '','']
+      q2: ['Uncle Drew', 'Mac and Devin Goes to High School', 'The Culture High', 'Gang of Roses 2'],
+      q3: ['Taylor Way', 'Music Gang', 'Hood Fame', 'Taylor Gang'],
+      q4: ['Gabrille Union', 'Rihanna', 'Amber Rose', 'Jasmine Tookes'],
+      q5: ['Pittsburgh','New Orleans','Atlanta','San Fransico'],
+      q6: ['Fly Times Vol. 1: The Good Fly Young','Cabin Fever','Deal or No Deal','Star Power'],
+      q7: ['Snoop Dogg', 'Currency', 'Lil Wayne','Drake']
     },
     answers: {
       q1: 'Black and Yellow',
-      q2: '',
-      q3: '',
-      q4: '',
-      q5: '',
-      q6: '',
-      q7: ''
+      q2: 'Mac and Devin Goes to High School',
+      q3: 'Taylor Gang',
+      q4: 'Amber Rose',
+      q5: 'Pittsburgh',
+      q6: 'Fly Times Vol. 1: The Good Fly Young',
+      q7: 'Currency'
     },
     // trivia methods
     // method to initialize game
